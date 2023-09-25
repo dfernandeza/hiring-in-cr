@@ -15,10 +15,11 @@ A carefully compiled list of companies that are open to hiring software engineer
 | [Streamyard](https://streamyard.com/)            | < 100          | https://boards.greenhouse.io/streamyard         |
 | [Yalo](https://www.yalo.com/)                    | 100 - 250      | https://www.yalo.com/careers                    |
 
-## Outsourcing agencies
+## Staff Augmentation
 
 |                                         |     |
 | --------------------------------------- | --- |
+| [Telescoped](https://telescoped.com/)   |     |
 | [Cleverthech](https://clevertech.biz/)  |     |
 | [Mismo](https://mismo.team/)            |     |
 | [Turing](https://www.turing.com/)       |     |

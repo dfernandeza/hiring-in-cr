@@ -18,6 +18,7 @@ A carefully compiled list of companies that are open to hiring software engineer
 | [OfferUp](https://offerup.com/)                  | 250 - 500      | https://about.offerup.com/careers/engineering/                       |
 | [Qventus](https://qventus.com/)                  | 100 - 250      | https://qventus.com/careers/                                         |
 | [Remote](https://remote.com/)                    | 500 - 1000     | https://remote.com/careers                                           |
+| [Schoolmint](https://schoolmint.com/)            | < 100          | https://schoolmint.com/careers/                                      |
 | [Streamyard](https://streamyard.com/)            | < 100          | https://boards.greenhouse.io/streamyard                              |
 | [Workramp](https://www.workramp.com/)            | 100 - 250      | https://jobs.lever.co/workramp                                       |
 | [Yalo](https://www.yalo.com/)                    | 100 - 250      | https://www.yalo.com/careers                                         |
@@ -33,6 +34,7 @@ A carefully compiled list of companies that are open to hiring software engineer
 | [Cleverthech](https://clevertech.biz/)           |     |
 | [Crossover](https://www.crossover.com/)          |     |
 | [Encora](https://www.encora.com/)                |     |
+| [Filta](https://filtaglobal.com/)                |     |
 | [Flatirons](https://flatirons.com/)              |     |
 | [Full Stack Labs](https://www.fullstacklabs.co/) |     |
 | [Gorilla Logic](https://gorillalogic.com/)       |     |

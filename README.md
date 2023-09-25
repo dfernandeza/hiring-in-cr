@@ -4,25 +4,28 @@ A carefully compiled list of companies that are open to hiring software engineer
 
 ## Companies
 
-|                                                  | # of employees | Careers                                                              |
-| ------------------------------------------------ | -------------- | -------------------------------------------------------------------- |
-| [ActiveCampaign](http://www.activecampaign.com/) | 500 - 1000     | https://www.activecampaign.com/en/about/careers                      |
-| [Amazon](https://www.amazon.com/)                | > 10000        | https://www.amazon.jobs/en/locations/costa-rica                      |
-| [Automatic](https://automattic.com/)             | 1000 - 5000    | https://automattic.com/work-with-us/                                 |
-| [Canonical](https://canonical.com/)              | 500 - 1000     | https://canonical.com/careers/career-explorer                        |
-| [Datsite](https://www.datasite.com/)             | 1000 - 5000    | https://www.datasite.com/es/es/company/careers                       |
-| [Experian](https://www.experianplc.com/)         | > 10000        | https://www.experianplc.com/careers/                                 |
-| [GitLab](https://about.gitlab.com/)              | 1000 - 5000    | https://about.gitlab.com/jobs/all-jobs/                              |
-| [Microsoft](https://microsoft.com/)              | > 10000        | https://careers.microsoft.com/v2/global/en/locations/costa-rica.html |
-| [Netlify](https://www.netlify.com/)              | 100 - 250      | https://www.netlify.com/careers/                                     |
-| [OfferUp](https://offerup.com/)                  | 250 - 500      | https://about.offerup.com/careers/engineering/                       |
-| [Qventus](https://qventus.com/)                  | 100 - 250      | https://qventus.com/careers/                                         |
-| [Remote](https://remote.com/)                    | 500 - 1000     | https://remote.com/careers                                           |
-| [Schoolmint](https://schoolmint.com/)            | < 100          | https://schoolmint.com/careers/                                      |
-| [Streamyard](https://streamyard.com/)            | < 100          | https://boards.greenhouse.io/streamyard                              |
-| [Workramp](https://www.workramp.com/)            | 100 - 250      | https://jobs.lever.co/workramp                                       |
-| [Yalo](https://www.yalo.com/)                    | 100 - 250      | https://www.yalo.com/careers                                         |
-| [Zapier](https://zapier.com/)                    | 250 - 500      | https://zapier.com/jobs                                              |
+|                                                    | # of employees | Careers                                                              |
+| -------------------------------------------------- | -------------- | -------------------------------------------------------------------- |
+| [ActiveCampaign](http://www.activecampaign.com/)   | 500 - 1000     | https://www.activecampaign.com/en/about/careers                      |
+| [Amazon](https://www.amazon.com/)                  | > 10000        | https://www.amazon.jobs/en/locations/costa-rica                      |
+| [Automatic](https://automattic.com/)               | 1000 - 5000    | https://automattic.com/work-with-us/                                 |
+| [Canonical](https://canonical.com/)                | 500 - 1000     | https://canonical.com/careers/career-explorer                        |
+| [Datsite](https://www.datasite.com/)               | 1000 - 5000    | https://www.datasite.com/es/es/company/careers                       |
+| [Experian](https://www.experianplc.com/)           | > 10000        | https://www.experianplc.com/careers/                                 |
+| [GitLab](https://about.gitlab.com/)                | 1000 - 5000    | https://about.gitlab.com/jobs/all-jobs/                              |
+| [Hewlett Packard Enterprise](https://www.hpe.com/) | > 10000        | https://careers.hpe.com/us/en                                        |
+| [IBM](https://www.ibm.com/)                        | > 10000        | https://www.ibm.com/careers                                          |
+| [Intel](https://intel.com/)                        | > 10000        | https://jobs.intel.com/en/search-jobs                                |
+| [Microsoft](https://microsoft.com/)                | > 10000        | https://careers.microsoft.com/v2/global/en/locations/costa-rica.html |
+| [Netlify](https://www.netlify.com/)                | 100 - 250      | https://www.netlify.com/careers/                                     |
+| [OfferUp](https://offerup.com/)                    | 250 - 500      | https://about.offerup.com/careers/engineering/                       |
+| [Qventus](https://qventus.com/)                    | 100 - 250      | https://qventus.com/careers/                                         |
+| [Remote](https://remote.com/)                      | 500 - 1000     | https://remote.com/careers                                           |
+| [Schoolmint](https://schoolmint.com/)              | < 100          | https://schoolmint.com/careers/                                      |
+| [Streamyard](https://streamyard.com/)              | < 100          | https://boards.greenhouse.io/streamyard                              |
+| [Workramp](https://www.workramp.com/)              | 100 - 250      | https://jobs.lever.co/workramp                                       |
+| [Yalo](https://www.yalo.com/)                      | 100 - 250      | https://www.yalo.com/careers                                         |
+| [Zapier](https://zapier.com/)                      | 250 - 500      | https://zapier.com/jobs                                              |
 
 ## Staff Augmentation
 

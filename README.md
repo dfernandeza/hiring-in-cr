@@ -61,7 +61,6 @@ A carefully compiled list of companies that are open to hiring software engineer
 | [Turing](https://www.turing.com/)                                           |        |
 | [World Wide Technology](https://www.wwt.com/)                               |        |
 
-
 ## EoRs
 An employer of record (EOR) is an entity that legally employs workers on behalf of another business. This means that any company in the world could hire employees in Costa Rica. No entity needed.
 

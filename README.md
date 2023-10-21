@@ -25,6 +25,7 @@ A carefully compiled list of companies that are open to hiring software engineer
 | [Remote](https://remote.com/)                      |        | 500 - 1000     | https://remote.com/careers                                           |
 | [Schoolmint](https://schoolmint.com/)              |        | < 100          | https://schoolmint.com/careers/                                      |
 | [Streamyard](https://streamyard.com/)              |        | < 100          | https://boards.greenhouse.io/streamyard                              |
+| [Sysdig](https://sysdig.com/)                      |        | 501-1000       | https://sysdig.com/careers/open-positions/                           |
 | [Workramp](https://www.workramp.com/)              |        | 100 - 250      | https://jobs.lever.co/workramp                                       |
 | [Yalo](https://www.yalo.com/)                      |        | 100 - 250      | https://www.yalo.com/careers                                         |
 | [Zapier](https://zapier.com/)                      |        | 250 - 500      | https://zapier.com/jobs                                              |
